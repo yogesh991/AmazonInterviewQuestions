@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Yogesh
+Build-Jdk: 11.0.2
+Implementation-Title: amazon-interview-prepration
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.amazon.interview
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/amazon-interview-prepration
+Created-By: Maven Integration for Eclipse
+
